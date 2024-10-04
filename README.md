@@ -1,2 +1,2 @@
-# golang-topics
+# Topics
 Code for my YouTube videos
